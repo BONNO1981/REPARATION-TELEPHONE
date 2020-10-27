@@ -15,7 +15,7 @@ using System.Windows.Shapes;
 namespace REPARATION_TELEPHONE.UI
 {
     /// <summary>
-    /// Interaction logic for APropos.xaml
+    /// Interaction logic for APropos.xaml jgjgj
     /// </summary>
     public partial class APropos : Window
     {
